@@ -1,0 +1,7 @@
+sounddevice
+scipy
+pydub
+pillow
+shazamio
+rgbmatrix
+requests
