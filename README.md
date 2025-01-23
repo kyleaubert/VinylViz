@@ -5,3 +5,6 @@ This is based off the https://github.com/hzeller/rpi-rgb-led-matrix project so t
 Set that as the default audio input for your Pi, after that all you need to do is install the required Python libraries (it might be a good idea to do this in a Venv as the sounddevice one can be finicky), and cd into the VinylViz folder and run:
 
 sudo python3 audio_processor.py
+
+
+If you have any questions, feel free to shoot me a PM, and if you get it running please let me know!
